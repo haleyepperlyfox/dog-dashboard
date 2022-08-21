@@ -1,0 +1,14 @@
+name: dog-dashboard
+title: dog-dashboard
+username:
+account: haleyepperlyfox
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6819033
+bundleId: 6222805
+url: https://haleyepperlyfox.shinyapps.io/dog-dashboard/
+when: 1661091275.3572
+lastSyncTime: 1661091275.35722
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
